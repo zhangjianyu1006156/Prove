@@ -13,21 +13,14 @@ This is a Python implementation of a memory card game that challenges your memor
 ## Getting Started
 1.Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/memory-card-game.git
+git clone https://github.com/zhangjianyu1006156/Prove.git
 ```
 
 
 
-2.Navigate to the project directory:
+2.Run the game:
 ```bash
-cd memory-card-game
-```
-
-
-
-3.Run the game:
-```bash
-python memory_card_game.py
+python ctd math game.ipynb
 ```
 
 ## Gameplay Instructions
