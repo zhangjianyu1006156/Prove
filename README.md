@@ -18,10 +18,7 @@ git clone https://github.com/zhangjianyu1006156/Prove.git
 
 
 
-2.Run the game:
-```bash
-python ctd math game.ipynb
-```
+2.Run the game in the Jupyter Notebook
 
 ## Gameplay Instructions
 1.Upon starting the game, you will be prompted to enter your name.
