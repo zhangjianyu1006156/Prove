@@ -1,9 +1,13 @@
 # Prove
 This is a Python implementation of a memory card game that challenges your memory and mathematical skills. The game is played on a 3x4 grid of cards, each card having a number. The objective is to create valid mathematical equations using the numbers on the cards and replace them with new ones from a shuffled deck. Your goal is to maximize your score by creating equations quickly and efficiently.
 
+
+
 ## Prerequisites
 Python 3.x
 Matplotlib library
+
+
 
 ## Getting Started
 1.Clone the repository to your local machine:
@@ -11,10 +15,14 @@ Matplotlib library
 git clone https://github.com/your-username/memory-card-game.git
 ```
 
+
+
 2.Navigate to the project directory:
 ```bash
 cd memory-card-game
 ```
+
+
 
 3.Run the game:
 ```bash
@@ -40,6 +48,8 @@ python memory_card_game.py
 
 9.The game ends when you either use all the cards or when the time runs out. Your final score will be displayed.
 
+
+
 ## Tips
 - Take advantage of Python's math library and operators to create complex equations.
 
@@ -47,8 +57,12 @@ python memory_card_game.py
 
 - Invalid equations or syntax errors will result in a penalty, so be careful with your inputs.
 
+
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
 
 ## Acknowledgments
 Special thanks to the Matplotlib library for enabling the graphical display of the game grid.
