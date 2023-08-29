@@ -4,8 +4,9 @@ This is a Python implementation of a memory card game that challenges your memor
 
 
 ## Prerequisites
-Python 3.x
-Matplotlib library
+1.Python 3.x
+
+2.Matplotlib library
 
 
 
